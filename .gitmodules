@@ -1,3 +1,4 @@
 [submodule "bool-front"]
 	path = bool-front
 	url = https://github.com/boolTest/bool-front.git
+	branch = stable
